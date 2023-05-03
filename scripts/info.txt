@@ -1,0 +1,2 @@
+- These scripts will be directly addd to the image.
+- Save these scripts in a location which a user won't be allowed to visit.
