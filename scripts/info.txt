@@ -1,2 +1,9 @@
+Total scripts -
+- script_ls.sh
+- script_file_folder_create.sh
+- script_file_folder_rename.sh
+- script_file_folder_delete.sh
+
+
 - These scripts will be directly addd to the image.
-- Save these scripts in a location which a user won't be allowed to visit.
+- Save these scripts in a location which a user won't be allowed to visit.\

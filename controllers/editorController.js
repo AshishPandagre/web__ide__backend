@@ -7,6 +7,7 @@ const docker = require("../docker");
 const execute_command = require("../services/executeCommand");
 
 async function getDirectoryContents(req, res) {
+  console.log(req.query)
   const { location } = req.query;
   console.log(location);
 
